@@ -68,3 +68,7 @@ temp_agents/
 
 # conductor extension and planning directories
 conductor/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
